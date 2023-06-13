@@ -6,7 +6,7 @@ Install git package to get started :
 
 sudo apt install git
 
-git clone https://github.com/Aadit-Krishnaa-R/DevOpsTask-1.git
+git clone https://github.com/Aadit-Krishnaa-R/DevOps-Task-1.git
 
 Run genSibling.sh as root user sudo bash genSiblingt.sh
 
