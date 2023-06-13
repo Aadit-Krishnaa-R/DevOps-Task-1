@@ -19,11 +19,11 @@ process=$(ps)
 
 
 #to transfer the above data to log file
-echo "Uptime of Computer:${uptime}" | cat >> comp_log.txt
-echo "Disc Usage of system:${disc_usage}" | cat >> ./comp_log.txt
-echo "Memory Usage of system:${memory_usage}" | cat >> ./comp_log.txt
-echo "Utilizations of system:${util}" | cat >> ./comp_log.txt
-echo "Expensive processes of system: ${expensive_process}" | cat >> ./comp_log.txt
-echo "Open TCP Ports:${tcp_open}" | cat >> ./comp_log.txt
-echo "Current Connections of system:${curr_connect}" | cat >> ./comp_log.txt
-echo "Running Processes of system:${process}" | cat >> ./comp_log.txt
+echo "Uptime of Computer:${uptime}
+echo "Disc Usage of system:${disc_usage}" 
+echo "Memory Usage of system:${memory_usage}" 
+echo "Utilizations of system:${util}" 
+echo "Expensive processes of system: ${expensive_process}" 
+echo "Open TCP Ports:${tcp_open}" 
+echo "Current Connections of system:${curr_connect}" 
+echo "Running Processes of system:${process}" 
