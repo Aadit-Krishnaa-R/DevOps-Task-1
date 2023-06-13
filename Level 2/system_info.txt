@@ -1,0 +1,14 @@
+========================
+      SYSTEM INFO
+========================
+Desktop processor: Model name:                      11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+System 
+Operating System: Ubuntu 22.04.2 LTS
+Desktop memory: MemTotal:        7912988 kB
+Serial Number :     VBf51dc77b-79df6550
+System IP:10.0.2.15 172.17.0.1 172.24.0.1 
+-------------------------
+Installed software: 
+0ad-data/jammy,jammy 0.0.25b-1 all
+0ad/jammy 0.0.25b-2 amd64
+=========================
