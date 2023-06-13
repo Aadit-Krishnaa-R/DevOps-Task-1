@@ -1,0 +1,210 @@
+TERM environment variable not set.
+sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+Uptime of Computer:up 1 day, 11 minutes
+Disc Usage of system:Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           773M  1.8M  771M   1% /run
+/dev/sda3        25G   21G  2.9G  88% /
+tmpfs           3.8G   24M  3.8G   1% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+/dev/sda2       512M  6.1M  506M   2% /boot/efi
+tmpfs           773M  144K  773M   1% /run/user/1000
+/dev/sr0         52M   52M     0 100% /media/aaditkrishnaar/VBox_GAs_7.0.8
+Memory Usage of system:               total        used        free      shared  buff/cache   available
+Mem:         7912988     6063868      179052      130480     1670068     1418868
+Swap:        2097148     1239428      857720
+Utilizations of system:
+Expensive processes of system:     PID TTY          TIME CMD
+  11542 ?        01:40:29 gnome-shell
+  14508 ?        01:09:44 firefox
+ 144865 ?        00:02:05 Isolated Web Co
+ 146442 ?        00:00:41 code
+ 146419 ?        00:00:29 code
+Open TCP Ports:
+Current Connections of system:Active Internet connections (servers and established)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 localhost:ipp           0.0.0.0:*               LISTEN     
+tcp        0      0 localhost:domain        0.0.0.0:*               LISTEN     
+tcp        0      0 aaditkrishnaar-Vi:51656 ec2-35-174-127-31:https ESTABLISHED
+tcp        0      0 aaditkrishnaar-Vi:51444 server-18-161-125:https TIME_WAIT  
+tcp        0      0 aaditkrishnaar-Vi:36742 lb-140-82-114-22-:https ESTABLISHED
+tcp        0      0 aaditkrishnaar-Vi:36320 lb-140-82-113-26-:https ESTABLISHED
+tcp        0      0 aaditkrishnaar-Vi:35502 whatsapp-cdn-shv-:https ESTABLISHED
+tcp        0      0 aaditkrishnaar-Vi:56630 cdn-185-199-108-1:https ESTABLISHED
+tcp        0      0 aaditkrishnaar-Vi:48908 maa05s28-in-f14.1:https TIME_WAIT  
+tcp        0      0 aaditkrishnaar-Vi:60476 20.207.73.85:https      ESTABLISHED
+tcp        0      0 aaditkrishnaar-Vi:38356 20.207.73.82:https      ESTABLISHED
+tcp        0      0 aaditkrishnaar-Vi:36386 server-108-159-91:https TIME_WAIT  
+tcp        0      0 aaditkrishnaar-Vi:57232 209.100.149.34.bc:https ESTABLISHED
+Running Processes of system:    PID TTY          TIME CMD
+  11361 ?        00:00:07 systemd
+  11362 ?        00:00:00 (sd-pam)
+  11369 ?        00:00:00 pipewire
+  11370 ?        00:00:00 pipewire-media-
+  11371 ?        00:00:13 pulseaudio
+  11372 ?        00:00:00 snapd-desktop-i
+  11383 ?        00:00:09 dbus-daemon
+  11388 ?        00:00:00 gnome-keyring-d
+  11396 ?        00:00:00 gvfsd
+  11409 ?        00:00:00 xdg-document-po
+  11410 ?        00:00:00 gvfsd-fuse
+  11419 ?        00:00:00 xdg-permission-
+  11470 ?        00:00:07 tracker-miner-f
+  11492 ?        00:00:00 gnome-session-c
+  11504 ?        00:00:00 gnome-session-b
+  11508 ?        00:00:10 gvfs-udisks2-vo
+  11517 ?        00:00:00 gvfs-mtp-volume
+  11521 ?        00:00:03 gvfs-afc-volume
+  11534 ?        00:00:00 at-spi-bus-laun
+  11535 ?        00:00:00 gvfs-gphoto2-vo
+  11542 ?        01:40:30 gnome-shell
+  11548 ?        00:00:00 dbus-daemon
+  11551 ?        00:00:00 gvfs-goa-volume
+  11555 ?        00:00:00 goa-daemon
+  11567 ?        00:00:00 goa-identity-se
+  11644 ?        00:00:00 gnome-shell-cal
+  11650 ?        00:00:00 evolution-sourc
+  11655 ?        00:00:00 dconf-service
+  11660 ?        00:00:00 evolution-calen
+  11668 ?        00:00:00 snapd-desktop-i
+  11672 ?        00:00:00 evolution-addre
+  11681 ?        00:00:04 xdg-desktop-por
+  11689 ?        00:00:44 xdg-desktop-por
+  11699 ?        00:00:00 gvfsd-trash
+  11710 ?        00:00:00 gjs
+  11712 ?        00:00:00 at-spi2-registr
+  11727 ?        00:00:00 sh
+  11728 ?        00:00:00 gsd-a11y-settin
+  11730 ?        00:00:00 gsd-color
+  11732 ?        00:00:00 gsd-datetime
+  11733 ?        00:00:35 ibus-daemon
+  11736 ?        00:00:03 gsd-housekeepin
+  11739 ?        00:00:00 gsd-keyboard
+  11741 ?        00:00:00 gsd-media-keys
+  11742 ?        00:00:00 gsd-power
+  11744 ?        00:00:00 gsd-print-notif
+  11746 ?        00:00:00 gsd-rfkill
+  11756 ?        00:00:00 gsd-screensaver
+  11759 ?        00:00:01 gsd-sharing
+  11778 ?        00:00:00 ibus-memconf
+  11787 ?        00:00:00 gsd-smartcard
+  11788 ?        00:00:06 ibus-extension-
+  11789 ?        00:00:00 gsd-sound
+  11795 ?        00:00:00 ibus-portal
+  11796 ?        00:00:00 gsd-wacom
+  11828 ?        00:00:00 gsd-disk-utilit
+  11852 ?        00:00:00 evolution-alarm
+  11853 ?        00:00:00 VBoxClient
+  11857 ?        00:00:00 VBoxClient
+  11890 ?        00:00:20 snap-store
+  11898 ?        00:08:54 Xwayland
+  11930 ?        00:00:00 gsd-printer
+  11938 ?        00:00:12 ibus-engine-sim
+  11953 ?        00:00:00 gvfsd-metadata
+  12028 ?        00:00:00 xdg-desktop-por
+  12049 ?        00:00:01 gsd-xsettings
+  12083 ?        00:00:00 gjs
+  12109 ?        00:00:01 ibus-x11
+  12140 ?        00:00:00 VBoxClient
+  12142 ?        00:00:45 VBoxClient
+  12148 ?        00:00:00 VBoxClient
+  12149 ?        00:02:30 VBoxClient
+  12160 ?        00:00:00 VBoxClient
+  12161 ?        00:00:08 VBoxClient
+  13448 ?        00:00:02 update-notifier
+  14508 ?        01:09:44 firefox
+  14687 ?        00:00:00 Socket Process
+  14704 ?        00:01:49 Privileged Cont
+  14746 ?        00:00:02 snap
+  14888 ?        00:00:07 WebExtensions
+  15183 ?        00:05:54 Isolated Web Co
+  15201 ?        00:04:31 Isolated Web Co
+  19419 ?        00:00:45 RDD Process
+  19421 ?        00:00:02 Utility Process
+  20919 ?        00:02:04 Isolated Web Co
+  22576 ?        00:00:00 gvfsd-network
+  22592 ?        00:00:00 gvfsd-dnssd
+  36083 ?        00:01:03 Isolated Web Co
+  37472 ?        00:00:01 Isolated Web Co
+  37558 ?        00:00:04 Isolated Web Co
+  40755 ?        00:00:26 Isolated Web Co
+  41013 ?        00:00:13 Isolated Web Co
+  41125 ?        00:00:01 Isolated Web Co
+  41162 ?        00:00:01 Isolated Web Co
+  41217 ?        00:00:27 Isolated Web Co
+  43355 ?        00:00:13 Isolated Web Co
+  43467 ?        00:00:57 Isolated Web Co
+  45002 ?        00:00:02 Isolated Web Co
+  46990 ?        00:00:04 Isolated Web Co
+  47099 ?        00:07:39 Isolated Web Co
+  55140 ?        00:00:09 Isolated Web Co
+  55184 ?        00:00:02 Isolated Web Co
+  77146 ?        00:00:23 Isolated Web Co
+  77213 ?        00:00:02 Isolated Web Co
+  77251 ?        00:00:01 Isolated Web Co
+  77280 ?        00:00:01 Isolated Web Co
+  77319 ?        00:00:03 Isolated Web Co
+  77331 ?        00:00:02 Isolated Web Co
+  77341 ?        00:00:02 Isolated Web Co
+  77390 ?        00:00:06 Isolated Web Co
+  77423 ?        00:00:00 Isolated Web Co
+  78253 ?        00:00:01 Isolated Web Co
+  78281 ?        00:00:01 Isolated Web Co
+  81666 ?        00:00:01 Isolated Web Co
+  82767 ?        00:00:25 Isolated Web Co
+  85876 ?        00:02:31 Isolated Web Co
+  88171 ?        00:00:05 Isolated Web Co
+  88203 ?        00:01:26 Isolated Web Co
+  89425 ?        00:00:01 Isolated Web Co
+  95688 ?        00:00:03 file:// Content
+  95815 ?        00:00:20 gedit
+  95857 ?        00:00:05 Isolated Web Co
+  95951 ?        00:00:00 Isolated Web Co
+  96864 ?        00:00:28 Isolated Web Co
+  97441 ?        00:05:23 Isolated Web Co
+  97556 ?        00:00:00 Isolated Web Co
+  97615 ?        00:00:03 nautilus
+  98626 ?        00:00:19 Isolated Web Co
+  98790 ?        00:00:00 Isolated Web Co
+  98841 ?        00:00:00 Isolated Web Co
+  98881 ?        00:00:01 Isolated Web Co
+  98963 ?        00:00:01 Isolated Web Co
+  99005 ?        00:00:00 Isolated Web Co
+  99026 ?        00:00:00 Isolated Web Co
+  99111 ?        00:00:01 Isolated Web Co
+ 122892 ?        00:00:14 Isolated Web Co
+ 123848 ?        00:00:00 Isolated Web Co
+ 124159 ?        00:00:00 Isolated Web Co
+ 124969 ?        00:00:02 Isolated Web Co
+ 125838 ?        00:00:35 Isolated Web Co
+ 127939 ?        00:00:06 Isolated Web Co
+ 128975 ?        00:01:22 Isolated Web Co
+ 132141 ?        00:00:09 Isolated Web Co
+ 132144 ?        00:00:00 Isolated Web Co
+ 133415 ?        00:00:02 Isolated Web Co
+ 134539 ?        00:00:01 Isolated Web Co
+ 143841 ?        00:00:05 Isolated Web Co
+ 144100 ?        00:00:01 gjs
+ 144469 ?        00:00:03 Isolated Web Co
+ 144562 ?        00:00:09 gnome-terminal-
+ 144865 ?        00:02:05 Isolated Web Co
+ 145025 ?        00:00:06 Isolated Web Co
+ 145093 ?        00:00:05 Isolated Web Co
+ 145140 ?        00:00:03 Isolated Web Co
+ 146375 ?        00:00:10 code
+ 146377 ?        00:00:00 code
+ 146378 ?        00:00:00 code
+ 146391 ?        00:00:00 chrome_crashpad
+ 146418 ?        00:00:00 code
+ 146419 ?        00:00:29 code
+ 146442 ?        00:00:41 code
+ 146478 ?        00:00:11 code
+ 146479 ?        00:00:03 code
+ 146480 ?        00:00:00 code
+ 146481 ?        00:00:03 code
+ 147171 ?        00:00:00 Web Content
+ 147566 ?        00:00:00 Web Content
+ 148049 ?        00:00:00 Web Content
+ 148428 ?        00:00:00 sh
+ 148429 ?        00:00:00 bash
+ 148452 ?        00:00:00 ps

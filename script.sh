@@ -19,7 +19,7 @@ process=$(ps)
 
 
 #to transfer the above data to log file
-echo "Uptime of Computer:${uptime}
+echo "Uptime of Computer:${uptime}"
 echo "Disc Usage of system:${disc_usage}" 
 echo "Memory Usage of system:${memory_usage}" 
 echo "Utilizations of system:${util}" 
